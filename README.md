@@ -1,16 +1,16 @@
 # Simple Database class with cache option
 
-# Features
+## Features
 
   - Lightweight and simple to use
   - Cache option for better performance
   - Works with prepared statements for preventing MySQL injection
 
-# Requirements
+## Requirements
   - MySQL Server
   - phpFastCache class(https://github.com/PHPSocialNetwork/phpfastcache)
 
-# Installation
+## Installation
    - Create a "cache" folder with write rights (777)
    - Configure the MySQL connect informations in example.php
    - Configure the cache time in the database class
